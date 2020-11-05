@@ -1,0 +1,29 @@
+{
+  "name": "postgresql-raw-api",
+  "version": "1.0.0",
+  "description": "A raw SQL API for PostgreSQL",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jondbest/postgresql-raw-api.git"
+  },
+  "keywords": [
+    "postgres",
+    "postgresql",
+    "raw",
+    "sql",
+    "api"
+  ],
+  "author": "Jonathan Best",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jondbest/postgresql-raw-api/issues"
+  },
+  "homepage": "https://github.com/jondbest/postgresql-raw-api#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
