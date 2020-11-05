@@ -1,1 +1,3 @@
-# postgresql-raw-api
+# sqlapi-pg
+
+## Raw SQL API for PostgreSQL
