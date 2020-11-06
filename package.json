@@ -1,5 +1,5 @@
 {
-  "name": "postgresql-raw-api",
+  "name": "sqlapi-pg",
   "version": "1.0.0",
   "description": "A raw SQL API for PostgreSQL",
   "main": "server.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jondbest/postgresql-raw-api.git"
+    "url": "git+https://github.com/jondbest/sqlapi-pg.git"
   },
   "keywords": [
     "postgres",
@@ -20,9 +20,9 @@
   "author": "Jonathan Best",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jondbest/postgresql-raw-api/issues"
+    "url": "https://github.com/jondbest/sqlapi-pg/issues"
   },
-  "homepage": "https://github.com/jondbest/postgresql-raw-api#readme",
+  "homepage": "https://github.com/jondbest/sqlapi-pg#readme",
   "dependencies": {
     "dotenv": "^8.2.0",
     "express": "^4.17.1",
